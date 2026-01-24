@@ -1,0 +1,10 @@
+beautifulsoup4
+requests
+langdetect
+googletrans==4.0.0rc1
+transformers
+sentence-transformers
+rank-bm25
+scikit-learn
+numpy
+tqdm

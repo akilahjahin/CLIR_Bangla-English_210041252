@@ -1,0 +1,34 @@
+{
+  "project_name": "Cross-Lingual Information Retrieval System",
+  "languages": [
+    "Bangla",
+    "English"
+  ],
+  "dataset_stats": {
+    "bangla_docs": 500,
+    "english_docs": 591,
+    "total_docs": 1091
+  },
+  "models": {
+    "lexical": "BM25Okapi",
+    "semantic": "paraphrase-multilingual-MiniLM-L12-v2",
+    "translation_bn_en": "Helsinki-NLP/opus-mt-bn-en",
+    "translation_en_bn": "Google Translate API"
+  },
+  "news_sources": {
+    "bangla": [
+      "Prothom Alo",
+      "BD News 24",
+      "Kaler Kantho",
+      "Bangla Tribune",
+      "Dhaka Post"
+    ],
+    "english": [
+      "The Daily Star",
+      "New Age",
+      "The New Nation",
+      "Daily Sun",
+      "Dhaka Tribune"
+    ]
+  }
+}
