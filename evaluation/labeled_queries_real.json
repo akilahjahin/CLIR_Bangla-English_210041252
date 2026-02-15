@@ -1,0 +1,750 @@
+[
+  {
+    "query_id": "bn_1",
+    "query": "শপথ অনুষ্ঠানে পাকিস্তানি প্রতিনিধি",
+    "language": "bn",
+    "relevant_doc_ids": [
+      "f00973451b06dbfa579252be871ee2f3",
+      "a1d3b93c4928fbdbd21223c5296adb60",
+      "ed4b36d2e559d4d2cf7e83ff78213e76"
+    ],
+    "description": "Pakistani representative at swearing-in ceremony"
+  },
+  {
+    "query_id": "bn_2",
+    "query": "টিউলিপ সিদ্দিক প্রত্যর্পণ",
+    "language": "bn",
+    "relevant_doc_ids": [
+      "f00973451b06dbfa579252be871ee2f3",
+      "a1d3b93c4928fbdbd21223c5296adb60",
+      "ed4b36d2e559d4d2cf7e83ff78213e76"
+    ],
+    "description": "Extradition of Tulip Siddiq"
+  },
+  {
+    "query_id": "bn_3",
+    "query": "রমজান মাসে স্কুল বন্ধ",
+    "language": "bn",
+    "relevant_doc_ids": [
+      "f00973451b06dbfa579252be871ee2f3",
+      "a1d3b93c4928fbdbd21223c5296adb60",
+      "ed4b36d2e559d4d2cf7e83ff78213e76"
+    ],
+    "description": "Schools closed during Ramadan"
+  },
+  {
+    "query_id": "bn_4",
+    "query": "পরবর্তী রাষ্ট্রপতি ইউনূস",
+    "language": "bn",
+    "relevant_doc_ids": [
+      "f00973451b06dbfa579252be871ee2f3",
+      "a1d3b93c4928fbdbd21223c5296adb60",
+      "ed4b36d2e559d4d2cf7e83ff78213e76"
+    ],
+    "description": "Next president speculation about Yunus"
+  },
+  {
+    "query_id": "bn_5",
+    "query": "ভোট পুনর্গণনার দাবি",
+    "language": "bn",
+    "relevant_doc_ids": [
+      "f00973451b06dbfa579252be871ee2f3",
+      "a1d3b93c4928fbdbd21223c5296adb60",
+      "ed4b36d2e559d4d2cf7e83ff78213e76"
+    ],
+    "description": "Demand for vote recount"
+  },
+  {
+    "query_id": "bn_6",
+    "query": "রামপুরায় কার্নিশে গুলি",
+    "language": "bn",
+    "relevant_doc_ids": [
+      "f00973451b06dbfa579252be871ee2f3",
+      "a1d3b93c4928fbdbd21223c5296adb60",
+      "ed4b36d2e559d4d2cf7e83ff78213e76"
+    ],
+    "description": "Shooting of youth on cornice in Rampura"
+  },
+  {
+    "query_id": "bn_7",
+    "query": "সিরিয়ায় আইএস বিমান হামলা",
+    "language": "bn",
+    "relevant_doc_ids": [
+      "f00973451b06dbfa579252be871ee2f3",
+      "a1d3b93c4928fbdbd21223c5296adb60",
+      "ed4b36d2e559d4d2cf7e83ff78213e76"
+    ],
+    "description": "US airstrikes on ISIS in Syria"
+  },
+  {
+    "query_id": "bn_8",
+    "query": "মঙ্গলগ্রহে ভারতের উপগ্রহ",
+    "language": "bn",
+    "relevant_doc_ids": [
+      "f00973451b06dbfa579252be871ee2f3",
+      "a1d3b93c4928fbdbd21223c5296adb60",
+      "ed4b36d2e559d4d2cf7e83ff78213e76"
+    ],
+    "description": "India's satellite in Mars orbit"
+  },
+  {
+    "query_id": "bn_9",
+    "query": "রানা প্লাজা ধ্বংসাবশেষ",
+    "language": "bn",
+    "relevant_doc_ids": [
+      "f00973451b06dbfa579252be871ee2f3",
+      "a1d3b93c4928fbdbd21223c5296adb60",
+      "ed4b36d2e559d4d2cf7e83ff78213e76"
+    ],
+    "description": "Rana Plaza debris and remains"
+  },
+  {
+    "query_id": "bn_10",
+    "query": "জামানত হারালেন প্রার্থী",
+    "language": "bn",
+    "relevant_doc_ids": [
+      "f00973451b06dbfa579252be871ee2f3",
+      "a1d3b93c4928fbdbd21223c5296adb60",
+      "ed4b36d2e559d4d2cf7e83ff78213e76"
+    ],
+    "description": "Candidates forfeit deposits"
+  },
+  {
+    "query_id": "bn_11",
+    "query": "বিএনপি ভোটের ফলাফল",
+    "language": "bn",
+    "relevant_doc_ids": [
+      "f00973451b06dbfa579252be871ee2f3",
+      "a1d3b93c4928fbdbd21223c5296adb60",
+      "ed4b36d2e559d4d2cf7e83ff78213e76"
+    ],
+    "description": "BNP election results"
+  },
+  {
+    "query_id": "bn_12",
+    "query": "মহেশখালি বিদ্যুৎকেন্দ্র",
+    "language": "bn",
+    "relevant_doc_ids": [
+      "f00973451b06dbfa579252be871ee2f3",
+      "a1d3b93c4928fbdbd21223c5296adb60",
+      "ed4b36d2e559d4d2cf7e83ff78213e76"
+    ],
+    "description": "Maheshkhali power plant"
+  },
+  {
+    "query_id": "bn_13",
+    "query": "ভারতীয় লোকসভা স্পিকার ঢাকা",
+    "language": "bn",
+    "relevant_doc_ids": [
+      "f00973451b06dbfa579252be871ee2f3",
+      "a1d3b93c4928fbdbd21223c5296adb60",
+      "ed4b36d2e559d4d2cf7e83ff78213e76"
+    ],
+    "description": "Indian Lok Sabha Speaker in Dhaka"
+  },
+  {
+    "query_id": "bn_14",
+    "query": "ফেলানি হত্যা মামলা",
+    "language": "bn",
+    "relevant_doc_ids": [
+      "f00973451b06dbfa579252be871ee2f3",
+      "a1d3b93c4928fbdbd21223c5296adb60",
+      "ed4b36d2e559d4d2cf7e83ff78213e76"
+    ],
+    "description": "Felani murder case review"
+  },
+  {
+    "query_id": "bn_15",
+    "query": "ব্রেন টিউমার তানিয়া বৃষ্টি",
+    "language": "bn",
+    "relevant_doc_ids": [
+      "f00973451b06dbfa579252be871ee2f3",
+      "a1d3b93c4928fbdbd21223c5296adb60",
+      "ed4b36d2e559d4d2cf7e83ff78213e76"
+    ],
+    "description": "Actress Tania Bristi with brain tumor"
+  },
+  {
+    "query_id": "bn_16",
+    "query": "বিমান বাহিনী জহুরুল হক",
+    "language": "bn",
+    "relevant_doc_ids": [
+      "f00973451b06dbfa579252be871ee2f3",
+      "a1d3b93c4928fbdbd21223c5296adb60",
+      "ed4b36d2e559d4d2cf7e83ff78213e76"
+    ],
+    "description": "Air Force martyr Sergeant Zahurul Haq death anniversary"
+  },
+  {
+    "query_id": "bn_17",
+    "query": "গণহত্যা ইসরায়েলি বাহিনী",
+    "language": "bn",
+    "relevant_doc_ids": [
+      "f00973451b06dbfa579252be871ee2f3",
+      "a1d3b93c4928fbdbd21223c5296adb60",
+      "ed4b36d2e559d4d2cf7e83ff78213e76"
+    ],
+    "description": "Genocide by Israeli forces in Gaza"
+  },
+  {
+    "query_id": "bn_18",
+    "query": "জনস্বাস্থ্য প্রতিবন্ধী ড. মুহিত",
+    "language": "bn",
+    "relevant_doc_ids": [
+      "f00973451b06dbfa579252be871ee2f3",
+      "a1d3b93c4928fbdbd21223c5296adb60",
+      "ed4b36d2e559d4d2cf7e83ff78213e76"
+    ],
+    "description": "Dr. Muhit wants to work on public health and disabled people"
+  },
+  {
+    "query_id": "bn_19",
+    "query": "ইরানের তেল ট্রাম্প নেতানিয়াহু",
+    "language": "bn",
+    "relevant_doc_ids": [
+      "f00973451b06dbfa579252be871ee2f3",
+      "a1d3b93c4928fbdbd21223c5296adb60",
+      "ed4b36d2e559d4d2cf7e83ff78213e76"
+    ],
+    "description": "Trump and Netanyahu conspiracy on Iranian oil"
+  },
+  {
+    "query_id": "bn_20",
+    "query": "টর্নেডো ইনিংস ইশান কিষান",
+    "language": "bn",
+    "relevant_doc_ids": [
+      "f00973451b06dbfa579252be871ee2f3",
+      "a1d3b93c4928fbdbd21223c5296adb60",
+      "ed4b36d2e559d4d2cf7e83ff78213e76"
+    ],
+    "description": "Ishan Kishan's explosive innings"
+  },
+  {
+    "query_id": "bn_21",
+    "query": "সড়ক দুর্ঘটনা পুলিশ নিহত",
+    "language": "bn",
+    "relevant_doc_ids": [
+      "f00973451b06dbfa579252be871ee2f3",
+      "a1d3b93c4928fbdbd21223c5296adb60",
+      "ed4b36d2e559d4d2cf7e83ff78213e76"
+    ],
+    "description": "Police officer dies in road accident while returning with accused"
+  },
+  {
+    "query_id": "bn_22",
+    "query": "বগুড়ায় পরপর তিন খুন",
+    "language": "bn",
+    "relevant_doc_ids": [
+      "f00973451b06dbfa579252be871ee2f3",
+      "a1d3b93c4928fbdbd21223c5296adb60",
+      "ed4b36d2e559d4d2cf7e83ff78213e76"
+    ],
+    "description": "Three murders in three consecutive days in Bogura"
+  },
+  {
+    "query_id": "bn_23",
+    "query": "আল্লাহর পথে ফিরে আসা",
+    "language": "bn",
+    "relevant_doc_ids": [
+      "f00973451b06dbfa579252be871ee2f3",
+      "a1d3b93c4928fbdbd21223c5296adb60",
+      "ed4b36d2e559d4d2cf7e83ff78213e76"
+    ],
+    "description": "Returning to Allah's path is the greatest success"
+  },
+  {
+    "query_id": "bn_24",
+    "query": "হারুন কিসিঞ্জার হাসপাতালে",
+    "language": "bn",
+    "relevant_doc_ids": [
+      "f00973451b06dbfa579252be871ee2f3",
+      "a1d3b93c4928fbdbd21223c5296adb60",
+      "ed4b36d2e559d4d2cf7e83ff78213e76"
+    ],
+    "description": "Comedian Harun Kissinger hospitalized"
+  },
+  {
+    "query_id": "bn_25",
+    "query": "বাবাকে জেতাতে পারলেন না সিবগাতুল্লাহ",
+    "language": "bn",
+    "relevant_doc_ids": [
+      "f00973451b06dbfa579252be871ee2f3",
+      "a1d3b93c4928fbdbd21223c5296adb60",
+      "ed4b36d2e559d4d2cf7e83ff78213e76"
+    ],
+    "description": "Shibir secretary Sibgatullah could not get his father elected"
+  },
+  {
+    "query_id": "bn_26",
+    "query": "আওয়ামী লীগ কার্যালয়ে নেতাকর্মীদের প্রবেশ",
+    "language": "bn",
+    "relevant_doc_ids": [
+      "f00973451b06dbfa579252be871ee2f3",
+      "a1d3b93c4928fbdbd21223c5296adb60",
+      "ed4b36d2e559d4d2cf7e83ff78213e76"
+    ],
+    "description": "Awami League activists enter party office after 1.5 years"
+  },
+  {
+    "query_id": "bn_27",
+    "query": "পদার্থবিজ্ঞান পরমাণু",
+    "language": "bn",
+    "relevant_doc_ids": [
+      "f00973451b06dbfa579252be871ee2f3",
+      "a1d3b93c4928fbdbd21223c5296adb60",
+      "ed4b36d2e559d4d2cf7e83ff78213e76"
+    ],
+    "description": "Atomic physics and matter"
+  },
+  {
+    "query_id": "bn_28",
+    "query": "তাপ নিরোধক বিজ্ঞান",
+    "language": "bn",
+    "relevant_doc_ids": [
+      "f00973451b06dbfa579252be871ee2f3",
+      "a1d3b93c4928fbdbd21223c5296adb60",
+      "ed4b36d2e559d4d2cf7e83ff78213e76"
+    ],
+    "description": "Insulator engineering and thermal barriers"
+  },
+  {
+    "query_id": "bn_29",
+    "query": "ভার্চুয়াল বাস্তবতা নিমজ্জিত সিমুলেশন",
+    "language": "bn",
+    "relevant_doc_ids": [
+      "f00973451b06dbfa579252be871ee2f3",
+      "a1d3b93c4928fbdbd21223c5296adb60",
+      "ed4b36d2e559d4d2cf7e83ff78213e76"
+    ],
+    "description": "Virtual reality immersive simulation"
+  },
+  {
+    "query_id": "bn_30",
+    "query": "কম্পিউটেশনাল ফ্লুইড ডায়নামিক্স",
+    "language": "bn",
+    "relevant_doc_ids": [
+      "f00973451b06dbfa579252be871ee2f3",
+      "a1d3b93c4928fbdbd21223c5296adb60",
+      "ed4b36d2e559d4d2cf7e83ff78213e76"
+    ],
+    "description": "Computational fluid dynamics applications"
+  },
+  {
+    "query_id": "en_1",
+    "query": "New MPs oath ceremony",
+    "language": "en",
+    "relevant_doc_ids": [
+      "2c61029294952a0b299c23071f18114b",
+      "b5de2dcd614444dfcf008b0c37b18c12",
+      "8d2430bf7558c41cab1e927ae9f53e02"
+    ],
+    "description": "Oath-taking ceremony of newly elected members of parliament"
+  },
+  {
+    "query_id": "en_2",
+    "query": "BNP election victory",
+    "language": "en",
+    "relevant_doc_ids": [
+      "2c61029294952a0b299c23071f18114b",
+      "b5de2dcd614444dfcf008b0c37b18c12",
+      "8d2430bf7558c41cab1e927ae9f53e02"
+    ],
+    "description": "BNP's landslide electoral victory and results"
+  },
+  {
+    "query_id": "en_3",
+    "query": "Iran flights to Bangladesh",
+    "language": "en",
+    "relevant_doc_ids": [
+      "2c61029294952a0b299c23071f18114b",
+      "b5de2dcd614444dfcf008b0c37b18c12",
+      "8d2430bf7558c41cab1e927ae9f53e02"
+    ],
+    "description": "Iran's Mahan Air launching direct flights to Bangladesh"
+  },
+  {
+    "query_id": "en_4",
+    "query": "Dhaka metro rail",
+    "language": "en",
+    "relevant_doc_ids": [
+      "2c61029294952a0b299c23071f18114b",
+      "b5de2dcd614444dfcf008b0c37b18c12",
+      "8d2430bf7558c41cab1e927ae9f53e02"
+    ],
+    "description": "Dhaka Metro rail news and updates"
+  },
+  {
+    "query_id": "en_5",
+    "query": "Bangladesh cold wave",
+    "language": "en",
+    "relevant_doc_ids": [
+      "2c61029294952a0b299c23071f18114b",
+      "b5de2dcd614444dfcf008b0c37b18c12",
+      "8d2430bf7558c41cab1e927ae9f53e02"
+    ],
+    "description": "Cold wave affecting parts of Bangladesh"
+  },
+  {
+    "query_id": "en_6",
+    "query": "Tarique Rahman press conference",
+    "language": "en",
+    "relevant_doc_ids": [
+      "2c61029294952a0b299c23071f18114b",
+      "b5de2dcd614444dfcf008b0c37b18c12",
+      "8d2430bf7558c41cab1e927ae9f53e02"
+    ],
+    "description": "BNP Chairman Tarique Rahman's press conference"
+  },
+  {
+    "query_id": "en_7",
+    "query": "Italy T20 World Cup",
+    "language": "en",
+    "relevant_doc_ids": [
+      "2c61029294952a0b299c23071f18114b",
+      "b5de2dcd614444dfcf008b0c37b18c12",
+      "8d2430bf7558c41cab1e927ae9f53e02"
+    ],
+    "description": "Italy's performance in ICC Men's T20 Cricket World Cup"
+  },
+  {
+    "query_id": "en_8",
+    "query": "Baloch separatist insurgency",
+    "language": "en",
+    "relevant_doc_ids": [
+      "2c61029294952a0b299c23071f18114b",
+      "b5de2dcd614444dfcf008b0c37b18c12",
+      "8d2430bf7558c41cab1e927ae9f53e02"
+    ],
+    "description": "Baloch separatist insurgency in Pakistan"
+  },
+  {
+    "query_id": "en_9",
+    "query": "US Syria troop withdrawal",
+    "language": "en",
+    "relevant_doc_ids": [
+      "2c61029294952a0b299c23071f18114b",
+      "b5de2dcd614444dfcf008b0c37b18c12",
+      "8d2430bf7558c41cab1e927ae9f53e02"
+    ],
+    "description": "US forces departure from Al-Tanf in Syria"
+  },
+  {
+    "query_id": "en_10",
+    "query": "Cinnabon Dhaka opening",
+    "language": "en",
+    "relevant_doc_ids": [
+      "2c61029294952a0b299c23071f18114b",
+      "b5de2dcd614444dfcf008b0c37b18c12",
+      "8d2430bf7558c41cab1e927ae9f53e02"
+    ],
+    "description": "Cinnabon opening its doors in Dhaka"
+  },
+  {
+    "query_id": "en_11",
+    "query": "Amar Ekushey Book Fair postponement",
+    "language": "en",
+    "relevant_doc_ids": [
+      "2c61029294952a0b299c23071f18114b",
+      "b5de2dcd614444dfcf008b0c37b18c12",
+      "8d2430bf7558c41cab1e927ae9f53e02"
+    ],
+    "description": "Call to postpone Amar Ekushey Book Fair until after Eid"
+  },
+  {
+    "query_id": "en_12",
+    "query": "Rajshahi University Incubation Hub",
+    "language": "en",
+    "relevant_doc_ids": [
+      "2c61029294952a0b299c23071f18114b",
+      "b5de2dcd614444dfcf008b0c37b18c12",
+      "8d2430bf7558c41cab1e927ae9f53e02"
+    ],
+    "description": "Rajshahi University launches Incubation Hub"
+  },
+  {
+    "query_id": "en_13",
+    "query": "Miss Universe Harnaaz Kaur Sandhu",
+    "language": "en",
+    "relevant_doc_ids": [
+      "2c61029294952a0b299c23071f18114b",
+      "b5de2dcd614444dfcf008b0c37b18c12",
+      "8d2430bf7558c41cab1e927ae9f53e02"
+    ],
+    "description": "Miss Universe Harnaaz Kaur Sandhu fashion inspiration"
+  },
+  {
+    "query_id": "en_14",
+    "query": "Swami Vivekananda birthday celebration",
+    "language": "en",
+    "relevant_doc_ids": [
+      "2c61029294952a0b299c23071f18114b",
+      "b5de2dcd614444dfcf008b0c37b18c12",
+      "8d2430bf7558c41cab1e927ae9f53e02"
+    ],
+    "description": "160th birthday celebration of Swami Vivekananda"
+  },
+  {
+    "query_id": "en_15",
+    "query": "US Indo-Pacific strategy",
+    "language": "en",
+    "relevant_doc_ids": [
+      "2c61029294952a0b299c23071f18114b",
+      "b5de2dcd614444dfcf008b0c37b18c12",
+      "8d2430bf7558c41cab1e927ae9f53e02"
+    ],
+    "description": "US vision for a free and open Indo-Pacific"
+  },
+  {
+    "query_id": "en_16",
+    "query": "Uzbek writer Sherzod Artikov",
+    "language": "en",
+    "relevant_doc_ids": [
+      "2c61029294952a0b299c23071f18114b",
+      "b5de2dcd614444dfcf008b0c37b18c12",
+      "8d2430bf7558c41cab1e927ae9f53e02"
+    ],
+    "description": "Uzbek writer Sherzod Artikov's short stories published from India"
+  },
+  {
+    "query_id": "en_17",
+    "query": "Nobel Prize in Literature",
+    "language": "en",
+    "relevant_doc_ids": [
+      "2c61029294952a0b299c23071f18114b",
+      "b5de2dcd614444dfcf008b0c37b18c12",
+      "8d2430bf7558c41cab1e927ae9f53e02"
+    ],
+    "description": "Discussion about Nobel Prize in Literature winners"
+  },
+  {
+    "query_id": "en_18",
+    "query": "Thomas Hardy Victorian literature",
+    "language": "en",
+    "relevant_doc_ids": [
+      "2c61029294952a0b299c23071f18114b",
+      "b5de2dcd614444dfcf008b0c37b18c12",
+      "8d2430bf7558c41cab1e927ae9f53e02"
+    ],
+    "description": "Thomas Hardy as a famed author of Victorian England"
+  },
+  {
+    "query_id": "en_19",
+    "query": "Donald Trump Iran oil sanctions",
+    "language": "en",
+    "relevant_doc_ids": [
+      "2c61029294952a0b299c23071f18114b",
+      "b5de2dcd614444dfcf008b0c37b18c12",
+      "8d2430bf7558c41cab1e927ae9f53e02"
+    ],
+    "description": "Trump's actions and remarks on Iran"
+  },
+  {
+    "query_id": "en_20",
+    "query": "Central Asia economic interest",
+    "language": "en",
+    "relevant_doc_ids": [
+      "2c61029294952a0b299c23071f18114b",
+      "b5de2dcd614444dfcf008b0c37b18c12",
+      "8d2430bf7558c41cab1e927ae9f53e02"
+    ],
+    "description": "Central Asia as a hotbed of economic interest"
+  },
+  {
+    "query_id": "en_21",
+    "query": "USS Gerald R Ford Norway",
+    "language": "en",
+    "relevant_doc_ids": [
+      "2c61029294952a0b299c23071f18114b",
+      "b5de2dcd614444dfcf008b0c37b18c12",
+      "8d2430bf7558c41cab1e927ae9f53e02"
+    ],
+    "description": "US aircraft carrier USS Gerald R. Ford in Oslofjord, Norway"
+  },
+  {
+    "query_id": "en_22",
+    "query": "Marco Rubio America child of Europe",
+    "language": "en",
+    "relevant_doc_ids": [
+      "2c61029294952a0b299c23071f18114b",
+      "b5de2dcd614444dfcf008b0c37b18c12",
+      "8d2430bf7558c41cab1e927ae9f53e02"
+    ],
+    "description": "US Secretary of State Marco Rubio's comments on America"
+  },
+  {
+    "query_id": "en_23",
+    "query": "Women's Football League Bangladesh",
+    "language": "en",
+    "relevant_doc_ids": [
+      "2c61029294952a0b299c23071f18114b",
+      "b5de2dcd614444dfcf008b0c37b18c12",
+      "8d2430bf7558c41cab1e927ae9f53e02"
+    ],
+    "description": "Rajshahi Stars in Women's Football League"
+  },
+  {
+    "query_id": "en_24",
+    "query": "Jamaat-e-Islami election results",
+    "language": "en",
+    "relevant_doc_ids": [
+      "2c61029294952a0b299c23071f18114b",
+      "b5de2dcd614444dfcf008b0c37b18c12",
+      "8d2430bf7558c41cab1e927ae9f53e02"
+    ],
+    "description": "Jamaat-e-Islami securing seat in Gazipur election"
+  },
+  {
+    "query_id": "en_25",
+    "query": "China vegetable greenhouses",
+    "language": "en",
+    "relevant_doc_ids": [
+      "2c61029294952a0b299c23071f18114b",
+      "b5de2dcd614444dfcf008b0c37b18c12",
+      "8d2430bf7558c41cab1e927ae9f53e02"
+    ],
+    "description": "Sensor-controlled greenhouses in eastern China"
+  },
+  {
+    "query_id": "en_26",
+    "query": "Anna Heringer Obel Award",
+    "language": "en",
+    "relevant_doc_ids": [
+      "2c61029294952a0b299c23071f18114b",
+      "b5de2dcd614444dfcf008b0c37b18c12",
+      "8d2430bf7558c41cab1e927ae9f53e02"
+    ],
+    "description": "German architect Anna Heringer wins Obel Award for Anandaloy"
+  },
+  {
+    "query_id": "en_27",
+    "query": "Finland happiest country",
+    "language": "en",
+    "relevant_doc_ids": [
+      "2c61029294952a0b299c23071f18114b",
+      "b5de2dcd614444dfcf008b0c37b18c12",
+      "8d2430bf7558c41cab1e927ae9f53e02"
+    ],
+    "description": "Finland remains world's happiest country for seventh year"
+  },
+  {
+    "query_id": "en_28",
+    "query": "Hello social media app Bangladesh",
+    "language": "en",
+    "relevant_doc_ids": [
+      "2c61029294952a0b299c23071f18114b",
+      "b5de2dcd614444dfcf008b0c37b18c12",
+      "8d2430bf7558c41cab1e927ae9f53e02"
+    ],
+    "description": "Bangladeshi-developed global social media application Hello"
+  },
+  {
+    "query_id": "en_29",
+    "query": "Britney Spears music catalogue sale",
+    "language": "en",
+    "relevant_doc_ids": [
+      "2c61029294952a0b299c23071f18114b",
+      "b5de2dcd614444dfcf008b0c37b18c12",
+      "8d2430bf7558c41cab1e927ae9f53e02"
+    ],
+    "description": "Britney Spears sells music catalogue rights to Primary Wave"
+  },
+  {
+    "query_id": "en_30",
+    "query": "Priyanka Chopra security needs",
+    "language": "en",
+    "relevant_doc_ids": [
+      "2c61029294952a0b299c23071f18114b",
+      "b5de2dcd614444dfcf008b0c37b18c12",
+      "8d2430bf7558c41cab1e927ae9f53e02"
+    ],
+    "description": "Actor Priyanka Chopra on why she needs security"
+  },
+  {
+    "query_id": "cl_1",
+    "query": "ইরানের তেল Trump sanctions",
+    "language": "mixed",
+    "relevant_doc_ids": [
+      "f00973451b06dbfa579252be871ee2f3",
+      "a1d3b93c4928fbdbd21223c5296adb60",
+      "ed4b36d2e559d4d2cf7e83ff78213e76"
+    ],
+    "description": "US sanctions and Trump's pressure on Iranian oil exports"
+  },
+  {
+    "query_id": "cl_2",
+    "query": "গাজা Israel military operation",
+    "language": "mixed",
+    "relevant_doc_ids": [
+      "f00973451b06dbfa579252be871ee2f3",
+      "a1d3b93c4928fbdbd21223c5296adb60",
+      "ed4b36d2e559d4d2cf7e83ff78213e76"
+    ],
+    "description": "Israeli military operations and attacks in Gaza"
+  },
+  {
+    "query_id": "cl_3",
+    "query": "বাংলাদেশ election BNP victory",
+    "language": "mixed",
+    "relevant_doc_ids": [
+      "f00973451b06dbfa579252be871ee2f3",
+      "a1d3b93c4928fbdbd21223c5296adb60",
+      "ed4b36d2e559d4d2cf7e83ff78213e76"
+    ],
+    "description": "BNP's landslide electoral victory in Bangladesh elections"
+  },
+  {
+    "query_id": "cl_4",
+    "query": "Ishan Kishan টর্নেডো innings",
+    "language": "mixed",
+    "relevant_doc_ids": [
+      "f00973451b06dbfa579252be871ee2f3",
+      "a1d3b93c4928fbdbd21223c5296adb60",
+      "ed4b36d2e559d4d2cf7e83ff78213e76"
+    ],
+    "description": "Ishan Kishan's explosive innings in T20 cricket"
+  },
+  {
+    "query_id": "cl_5",
+    "query": "পদার্থবিজ্ঞান atomic physics quantum mechanics",
+    "language": "mixed",
+    "relevant_doc_ids": [
+      "f00973451b06dbfa579252be871ee2f3",
+      "a1d3b93c4928fbdbd21223c5296adb60",
+      "ed4b36d2e559d4d2cf7e83ff78213e76"
+    ],
+    "description": "Atomic physics and quantum mechanics concepts"
+  },
+  {
+    "query_id": "cl_6",
+    "query": "শপথ ceremony MPs oath",
+    "language": "mixed",
+    "relevant_doc_ids": [
+      "f00973451b06dbfa579252be871ee2f3",
+      "a1d3b93c4928fbdbd21223c5296adb60",
+      "ed4b36d2e559d4d2cf7e83ff78213e76"
+    ],
+    "description": "Oath-taking ceremony of newly elected MPs and foreign representatives"
+  },
+  {
+    "query_id": "cl_7",
+    "query": "Syria Islamic State US airstrike",
+    "language": "mixed",
+    "relevant_doc_ids": [
+      "f00973451b06dbfa579252be871ee2f3",
+      "a1d3b93c4928fbdbd21223c5296adb60",
+      "ed4b36d2e559d4d2cf7e83ff78213e76"
+    ],
+    "description": "US airstrikes against Islamic State in Syria"
+  },
+  {
+    "query_id": "cl_8",
+    "query": "Balochistan Pakistan terror attacks",
+    "language": "mixed",
+    "relevant_doc_ids": [
+      "f00973451b06dbfa579252be871ee2f3",
+      "a1d3b93c4928fbdbd21223c5296adb60",
+      "ed4b36d2e559d4d2cf7e83ff78213e76"
+    ],
+    "description": "Terror attacks and insurgency in Balochistan, Pakistan"
+  }
+]
